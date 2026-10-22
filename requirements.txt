@@ -1,0 +1,9 @@
+# Tested with Python 3.10 and PyTorch 2.0.1 + CUDA 11.8.
+# Newer PyTorch/CUDA versions should also work.
+torch>=2.0
+torchvision>=0.15
+timm>=0.9
+numpy>=1.23
+pillow>=9.0
+scikit-learn>=1.2
+ivtmetrics>=0.1.3

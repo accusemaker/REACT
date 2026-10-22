@@ -1,0 +1,15 @@
+REACT
+Copyright 2026 The REACT Authors
+
+This is the core code release for:
+
+B. Qu, Y. Xiao, W. Liu, W. Zheng, Z. Wang, X. Zhong, and B. Sheng,
+"REACT: Relation-Aware Class Activation-Guided Mixture-of-Experts for
+Spatio-Temporal Triplet Recognition," IEEE Transactions on Medical Imaging,
+vol. 45, no. 10, pp. 5138-5152, 2026.
+DOI: 10.1109/TMI.2026.3716009
+
+This product includes software developed by the CAMMA research group
+(University of Strasbourg) as part of the Rendezvous project, and the Swin
+Transformer implementation by Microsoft Research.  See THIRD_PARTY_NOTICES.md
+for details.

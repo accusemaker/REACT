@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "REACT"
+type: software
+authors:
+  - family-names: Qu
+    given-names: Bohan
+  - family-names: Xiao
+    given-names: Yuhao
+  - family-names: Liu
+    given-names: Wenxuan
+  - family-names: Zheng
+    given-names: Wenbo
+  - family-names: Wang
+    given-names: Zheng
+  - family-names: Zhong
+    given-names: Xian
+  - family-names: Sheng
+    given-names: Bin
+preferred-citation:
+  type: article
+  title: "REACT: Relation-Aware Class Activation-Guided Mixture-of-Experts for Spatio-Temporal Triplet Recognition"
+  authors:
+    - family-names: Qu
+      given-names: Bohan
+    - family-names: Xiao
+      given-names: Yuhao
+    - family-names: Liu
+      given-names: Wenxuan
+    - family-names: Zheng
+      given-names: Wenbo
+    - family-names: Wang
+      given-names: Zheng
+    - family-names: Zhong
+      given-names: Xian
+    - family-names: Sheng
+      given-names: Bin
+  journal: "IEEE Transactions on Medical Imaging"
+  year: 2026
+  volume: 45
+  issue: 10
+  start: 5138
+  end: 5152
+  doi: "10.1109/TMI.2026.3716009"

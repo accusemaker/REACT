@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors / notebooks
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Data and experiment artefacts
+/data/
+/outputs/
+/features/
+/work/
+*.pth
+*.pt
+*.pkl
+*.pickle
+*.log
+events.out.tfevents.*

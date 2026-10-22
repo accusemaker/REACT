@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "react-surgical"
+version = "1.0.0"
+description = "REACT: Relation-Aware Class Activation-Guided Mixture-of-Experts for Spatio-Temporal Triplet Recognition"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+authors = [
+    { name = "Bohan Qu" },
+    { name = "Yuhao Xiao" },
+    { name = "Wenxuan Liu" },
+    { name = "Wenbo Zheng" },
+    { name = "Zheng Wang" },
+    { name = "Xian Zhong" },
+    { name = "Bin Sheng" },
+]
+dependencies = [
+    "torch>=2.0",
+    "torchvision>=0.15",
+    "timm>=0.9",
+    "numpy>=1.23",
+    "pillow>=9.0",
+    "scikit-learn>=1.2",
+    "ivtmetrics>=0.1.3",
+]
+
+[project.urls]
+Paper = "https://doi.org/10.1109/TMI.2026.3716009"
+
+[tool.setuptools.packages.find]
+include = ["react*"]
